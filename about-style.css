@@ -1,0 +1,25 @@
+.links > a{
+color:gray;
+
+}
+
+.about-me{
+    text-align: right;
+    border:solid 2px red;
+    border-radius: 5px;
+    padding:15px;
+    text-align: center;
+    width:750px;
+ }
+
+ .about-img{
+    border-radius: 5px;
+}
+
+.form-control {
+    width: 200px;
+    text-align: right;
+    resize: none;
+}
+
+
